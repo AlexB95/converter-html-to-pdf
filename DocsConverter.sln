@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocsConverter", "DocsConverter\DocsConverter.csproj", "{DAE967BD-1335-405E-A25D-231ACAE5DD24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter.Bussiness", "Converter.Bussiness_\Converter.Bussiness.csproj", "{BA0EA0D5-31A6-4F93-9732-AC2D48A44950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE967BD-1335-405E-A25D-231ACAE5DD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE967BD-1335-405E-A25D-231ACAE5DD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE967BD-1335-405E-A25D-231ACAE5DD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE967BD-1335-405E-A25D-231ACAE5DD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0EA0D5-31A6-4F93-9732-AC2D48A44950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0EA0D5-31A6-4F93-9732-AC2D48A44950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0EA0D5-31A6-4F93-9732-AC2D48A44950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0EA0D5-31A6-4F93-9732-AC2D48A44950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46813E07-4C91-44BB-8D40-F3BC999867D5}
+	EndGlobalSection
+EndGlobal
